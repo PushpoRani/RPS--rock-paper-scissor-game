@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:weightSum="3">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rec_button"
+            android:text="ROCK"
+            android:id="@+id/b_rock"
+            android:layout_weight="1"
+            android:textSize="20dp"
+            android:textColor="#ffffffff" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rec_button"
+            android:text="PAPER"
+            android:id="@+id/b_paper"
+            android:layout_weight="1"
+            android:textSize="20dp"
+            android:textColor="#ffffffff" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rec_button"
+            android:text="SCISSORS"
+            android:id="@+id/b_scissors"
+            android:layout_weight="1"
+            android:textSize="20dp"
+            android:textColor="#ffffffff" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp">
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rec_button"
+            android:id="@+id/btnpoint"
+            android:textSize="20dp"
+            android:textColor="#ffffffff"
+            android:layout_gravity="center_horizontal"
+            android:textAllCaps="false"
+            android:text="POINTS" />
+    </LinearLayout>
+
+</LinearLayout>

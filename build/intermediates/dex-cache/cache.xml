@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android_project\RPS\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\Android_project\RPS\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.4.0_b89b74f7d4fb937d11bcef8c22109c8692983b77.jar" />
+    </item>
+    <item
+        jar="D:\Android_project\RPS\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Android_project\RPS\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.4.0_83b25d58c6398d4e6bea0b6f8a53bba012fdfb5e.jar" />
+    </item>
+    <item
+        jar="D:\Android_project\RPS\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\Android_project\RPS\app\build\intermediates\pre-dexed\release\com.android.support-design-23.4.0_ba19e6e8f7dce18a682b4793a4762d5fdba2720c.jar" />
+    </item>
+    <item
+        jar="D:\Android_project\RPS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Android_project\RPS\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.4.0_d94357b59027c4aae2cf8421ca64b733dbbcdadc.jar" />
+    </item>
+    <item
+        jar="D:\Android_project\RPS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Android_project\RPS\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_f89109b545bc026a149f1d856291981d46cb8a7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Android_project\RPS\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0_8b571364c1229a5ecc4fef863acb773b0c466b91.jar" />
+    </item>
+    <item
+        jar="D:\Android_project\RPS\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Android_project\RPS\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.4.0_b157086e6ba3f639225612a5a5b6f5a2b1f86a29.jar" />
+    </item>
+    <item
+        jar="D:\Android_project\RPS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Android_project\RPS\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_d9a801bdcbb095f0dd36966b8ccad16c1dd4fab6.jar" />
+    </item>
+
+</items>
