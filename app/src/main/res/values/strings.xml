@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RPS</string>
+    <string name="title_activity_next_page">Rock Paper Scissors</string>
+</resources>

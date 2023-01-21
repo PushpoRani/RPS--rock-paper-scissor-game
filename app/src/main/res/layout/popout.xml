@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#02897D"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:text="Your Point is "
+        android:id="@+id/tv"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textColor="#ffffffff"
+        android:gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv2"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your Rival&apos;s is "
+        android:id="@+id/tv3"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv4"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal" />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="96dp"
+        android:id="@+id/imageView"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/sword"
+        android:layout_weight="0.42" />
+</LinearLayout>
